@@ -12,7 +12,7 @@ Thank you for grading this incomplete attempt.
 
 The image below is a preview of the JavaScript Quiz.
 
-<img alt="screenshot of JavaScript Quiz" src="./images/javascript-quiz-screenshot.png"/>
+<img alt="screenshot of JavaScript Quiz" src="assets\images\javascript-quiz-screenshot.png" />
 
 [Link to Susan's JavaScript Quiz](https://github.com/s-s-lee/javascript-quiz/blob/main/LICENSE)
 
